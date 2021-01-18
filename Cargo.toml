@@ -1,0 +1,14 @@
+[package]
+name = "hierarchical"
+description = "Simple hierarchical configuration management"
+version = "0.1.0"
+
+authors = ["Alex Krantz <alex@krantz.dev>"]
+categories = ["config"]
+edition = "2018"
+
+repository = "https://github.com/akrantz01/hierarchical.git"
+readme = "README.md"
+license = "MIT"
+
+[dependencies]
